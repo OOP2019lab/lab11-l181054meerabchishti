@@ -1,0 +1,1 @@
+It works fine with private inheritance as well because we have used getters to access the private members of base class

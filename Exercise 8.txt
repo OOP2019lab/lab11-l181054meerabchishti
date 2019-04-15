@@ -1,0 +1,1 @@
+After changing inheritance mode to PROTECTED, code works in the same way as it did for public mode because the members are accessed through functions

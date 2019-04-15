@@ -1,0 +1,6 @@
+a)_ Name of person is kept private so the distinct identity remaions and nobody is able to change it. Secondly age is protected to give access to modify if required.
+b_ S1.printStudent();
+ERROR: 'Person::first_name' : cannot access private member declared in class 'Person'	
+c)_ As the first and last name of person is private,despit6e the fact that the class is inherited publicly,the private members are kept hidden.
+
+	
